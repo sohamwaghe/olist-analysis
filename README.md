@@ -47,7 +47,7 @@ An end-to-end data analytics project that transforms raw Brazilian e-commerce da
 
 ### 📷 Sample Dashboard Preview
 
-![Dashboard Screenshot 1](Dashboard & Images\Screenshot 2025-07-09 233707.png)
+![Dashboard Screenshot 1](Dashboard & Images/Screenshot 2025-07-09 233707.png)
 
 ---
 
